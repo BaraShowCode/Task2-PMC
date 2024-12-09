@@ -1,0 +1,8 @@
+Task 2: Predictive Modeling - Classifi cation
+Description: Build a classifi cation model to predict outcomes based on a dataset (e.g., predicting if a customer will buy a product). This task covers data preprocessing, model training, and performance evaluation using common classifi cation metrics.
+Skills: Python, Scikit-Learn, Logistic Regression, Decision Trees, Classifi cation Metrics.
+Objectives:
+Preprocess the dataset, including data splitting, scaling, and encoding categorical variables.
+Train a logistic regression and decision tree classifi er.
+Evaluate models using accuracy, precision, recall, and confusion matrix.
+Choose the best model and summarize the evaluation in a report.
